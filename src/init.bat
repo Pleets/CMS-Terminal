@@ -3,7 +3,7 @@
 :: http://development.pleets.org/apps/msdos-shell
 ::
 :: http://www.pleets.org
-:: Copyright 2014, Pleets Apps
+:: Copyright 2015, Pleets Apps
 :: Free to use under the MIT license.
 :: http://www.opensource.org/licenses/mit-license.php
 ::
@@ -14,8 +14,8 @@ echo %DATE% > cache/current_date.tmp
 @echo off
 color 0F
 echo %OS% %DATE% %TIME% >> logs/access.txt
-echo ==============================
+echo ===================================
 echo          CMS Terminal
-echo ==============================
-echo Copyright 2014, Pleets Apps
+echo ===================================
+echo Copyright 2014 - 2015, Pleets Apps
 echo.

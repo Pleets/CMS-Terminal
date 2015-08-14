@@ -62,6 +62,9 @@ if not errorlevel 1 (
 	:zf-tool
 		call %SHELL_PATH%/src/plugins/zf-tool.bat
 		goto break
+	:dns-tool
+		call %SHELL_PATH%/src/plugins/dns-tool.bat
+		goto break
 
 	:: Help
 	:help-term
