@@ -22,7 +22,7 @@ if "%option%" == "start dns" (
 
 if "%option%" == "dns reload" (
 	set /p zone=Type your zone: 
- 	rdnc reload %zone%
+ 	rndc reload %zone%
 	echo.
 	goto console
 )
