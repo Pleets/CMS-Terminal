@@ -9,12 +9,20 @@ echo Basic requeriments:
 echo + Bind DNS installed
 echo + Bind binaries in path
 echo.
+
 :console
 
 set /p option=--:%CD%$ 
 
 if "%option%" == "start dns" (
 	start cmd /k named.exe -f
+	echo.
+	goto console
+)
+
+if "%option%" == "dns reload" (
+	set /p zone=Type your zone: 
+ 	rdnc reload %zone%
 	echo.
 	goto console
 )
