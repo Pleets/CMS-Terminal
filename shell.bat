@@ -1,11 +1,11 @@
 ::
-:: CMS Terminal - Optimize your routines
+:: iShell - Optimize your routines
 :: http://www.pleets.org
-:: Copyright 2014, Pleets Apps
+:: Copyright 2016, Pleets Apps
 :: Free to use under the MIT license.
 :: http://www.opensource.org/licenses/mit-license.php
 ::
-:: Date: 2014-09-23
+:: Date: 2016-03-09
 ::
 :: @autor Darío Rivera
 :: @email admin@pleets.org

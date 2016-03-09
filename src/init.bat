@@ -1,6 +1,6 @@
 ::
-:: CMS Terminal - init script
-:: http://development.pleets.org/apps/msdos-shell
+:: iShell - init script
+:: http://development.pleets.org/apps/iShell
 ::
 :: http://www.pleets.org
 :: Copyright 2015, Pleets Apps
@@ -14,8 +14,8 @@ echo %DATE% > cache/current_date.tmp
 @echo off
 color 0F
 echo %OS% %DATE% %TIME% >> logs/access.txt
-echo ===================================
-echo          CMS Terminal
-echo ===================================
-echo Copyright 2014 - 2015, Pleets Apps
+echo ===========================
+echo          iShell
+echo ===========================
+echo Copyright 2016, Pleets Apps
 echo.

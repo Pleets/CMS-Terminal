@@ -1,4 +1,4 @@
-CMS-Terminal
+iShell
 ============
 
-Customized Microsoft Terminal
+Customized Microsoft Terminal based on batch.

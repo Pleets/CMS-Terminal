@@ -1,4 +1,4 @@
-  Copyright (c) 2014 Darío Rivera, Pleets Apps
+﻿  Copyright (c) 2016 Darío Rivera, Pleets Apps
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
